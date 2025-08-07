@@ -1,0 +1,11 @@
+order_id,event_time,country,category,amount
+1,2024-01-01T09:12:00Z,PL,books,19.99
+2,2024-01-01T10:30:00Z,PL,electronics,249.90
+3,2024-01-02T08:15:00Z,DE,groceries,45.10
+4,2024-01-02T12:01:00Z,PL,books,12.00
+5,2024-01-03T16:45:00Z,FR,beauty,34.50
+6,2024-01-03T21:20:00Z,PL,groceries,0
+7,2024-01-04T07:00:00Z,DE,books,22.00
+8,2024-01-04T11:40:00Z,FR,electronics,399.00
+9,2024-01-05T14:22:00Z,PL,beauty,18.75
+10,2024-01-06T09:05:00Z,DE,groceries,15.99

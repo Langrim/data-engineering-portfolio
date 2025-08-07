@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.env
+.env.*
+
+# macOS / Linux
+.DS_Store
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# Spark / Data outputs
+*.parquet/
+*.orc/
+*.avro/
+*.delta/
+*.log
+spark-warehouse/
+metastore_db/
+
+# Airflow
+airflow/
+logs/
+*.airflow
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
